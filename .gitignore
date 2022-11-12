@@ -1,0 +1,13 @@
+
+*.json
+*.json
+*.dep
+STM32_F407ZGT6(FreeRTOS+HAL)/
+.vscode/
+*.json
+MDK-ARM/.vscode/c_cpp_properties.json
+MDK-ARM\.vscode/
+*.o
+*.o
+MDK-ARM/STM32_F407ZGT6(FreeRTOS+HAL)/
+*.o
